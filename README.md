@@ -1,1 +1,1 @@
-# titanic-surv
+# Titanaic Survival Prediction
